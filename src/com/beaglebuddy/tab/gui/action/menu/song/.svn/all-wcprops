@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/341/trunk/src/com/beaglebuddy/tab/gui/action/menu/song
+END
+OpenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/song/OpenAction.java
+END
+SaveAsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/song/SaveAsAction.java
+END
+RecentFilesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/song/RecentFilesAction.java
+END
+InformationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/341/trunk/src/com/beaglebuddy/tab/gui/action/menu/song/InformationAction.java
+END
+PrintOptionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/song/PrintOptionsAction.java
+END
+NewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/song/NewAction.java
+END
+ExitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/song/ExitAction.java
+END
+SongHasBeenEditedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/308/trunk/src/com/beaglebuddy/tab/gui/action/menu/song/SongHasBeenEditedAction.java
+END
+PrintAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/341/trunk/src/com/beaglebuddy/tab/gui/action/menu/song/PrintAction.java
+END
+PrintSetupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/song/PrintSetupAction.java
+END
+SaveAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/song/SaveAction.java
+END

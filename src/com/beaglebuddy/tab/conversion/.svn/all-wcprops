@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/345/trunk/src/com/beaglebuddy/tab/conversion
+END
+ConversionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/341/trunk/src/com/beaglebuddy/tab/conversion/ConversionManager.java
+END
+Converter_PTB_1_7_0_to_BBT_1_0.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/345/trunk/src/com/beaglebuddy/tab/conversion/Converter_PTB_1_7_0_to_BBT_1_0.java
+END
+Converter_GP5_to_BBT_1_0.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/src/com/beaglebuddy/tab/conversion/Converter_GP5_to_BBT_1_0.java
+END

@@ -1,0 +1,40 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/src/com/beaglebuddy/tab/gui/dialog/chord/dictionary
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2008-08-23T15:48:05.992661Z
+358
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+ChordDictionaryDialog.java
+file
+
+
+
+
+2008-08-24T15:21:05.890625Z
+6ece2688565bc476fb57da8e7d23a2b1
+2008-08-23T15:48:05.992661Z
+358
+joneric.wennerstrom
+

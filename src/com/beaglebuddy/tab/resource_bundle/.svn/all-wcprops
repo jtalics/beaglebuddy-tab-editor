@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/357/trunk/src/com/beaglebuddy/tab/resource_bundle
+END
+ResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/144/trunk/src/com/beaglebuddy/tab/resource_bundle/ResourceBundle.java
+END
+tab_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/357/trunk/src/com/beaglebuddy/tab/resource_bundle/tab_en.properties
+END
+tab_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/357/trunk/src/com/beaglebuddy/tab/resource_bundle/tab_es.properties
+END
+tab_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/357/trunk/src/com/beaglebuddy/tab/resource_bundle/tab_de.properties
+END

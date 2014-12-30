@@ -1,0 +1,46 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/src/com/beaglebuddy/tab
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2008-08-23T15:48:05.992661Z
+358
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+test
+dir
+
+model
+dir
+
+resource_bundle
+dir
+
+gui
+dir
+
+conversion
+dir
+
+io
+dir
+

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN" "http://java.sun.com/products/javahelp/toc_2_0.dtd">
+
+<!-- this file organizes the help topics specified in the map.jhm file into a tree hierarchy -->
+<toc version="1.0">
+     <tocitem image="toplevelfolder" target="overview" text="Beaglebuddy Tab Online Help">
+          <tocitem target="overview"                                    text="Vista General"/>
+          <tocitem target="getting_started"                             text="Comenzando"/>
+          <tocitem target="power_tab_conversion"                        text="Conversion de Pentagramas"/>
+          <tocitem text="Dialogs">
+               <tocitem target="dialog.alternate_ending"                text="Alternar Finales"/>
+               <tocitem target="dialog.barline"                         text="Barras de Compas"/>
+               <tocitem target="dialog.bend"                            text="Distorcionar"/>
+               <tocitem target="dialog.chord_diagrams"                  text="Diagrama de Acordes"/>
+               <tocitem target="dialog.chord_dictionary"                text="Diccionario de Acordes"/>
+               <tocitem target="dialog.chord_name"                      text="Nombre de Acordes"/>
+               <tocitem target="dialog.direction"                       text="Direccion"/>
+               <tocitem target="dialog.dive"                            text="Descenso"/>
+               <tocitem target="dialog.drum_map"                        text="Mapa de Bateria"/>
+               <tocitem target="dialog.fingering"                       text="Fingering Dialog"/>
+               <tocitem target="dialog.goto.measure"                    text="Ir a Medida"/>
+               <tocitem target="dialog.goto.section"                    text="Ir a Seccion"/>
+               <tocitem target="dialog.harmonic"                        text="Harmonic Dialog"/>
+               <tocitem target="dialog.instrument.add"                  text="Adicionar Instrumentos"/>
+               <tocitem target="dialog.instrument.assign"               text="Assignar Instrumentos"/>
+               <tocitem target="dialog.instruments"                     text="Instrumentos"/>
+               <tocitem target="dialog.irregular_note_grouping"         text="Notas Irregulares"/>
+               <tocitem target="dialog.key_signature"                   text="Key Signature Dialog"/>
+               <tocitem target="dialog.num_tab_lines"                   text="Number of Tab Lines Dialog"/>
+               <tocitem target="dialog.octave"                          text="Octavas"/>
+               <tocitem target="dialog.pickstroke"                      text="Pick Stroke Dialog"/>
+               <tocitem target="dialog.preferences.midi"                text="configurar MIDI"/>
+               <tocitem target="dialog.print_options"                   text="Imprimir opciones"/>
+               <tocitem target="dialog.rehearsal_sign"                  text="Rehearsal Sign Dialog"/>
+               <tocitem target="dialog.slide"                           text="Slide Dialog"/>
+               <tocitem target="dialog.song.information"                text="Informacion sobre Canciones"/>
+               <tocitem target="dialog.tempo"                           text="Tiempo"/>
+               <tocitem target="dialog.text"                            text="Text Dialog"/>
+               <tocitem target="dialog.trill"                           text="Trill Dialog"/>
+               <tocitem target="dialog.vibrato"                         text="Vibrato"/>
+               <tocitem target="dialog.volume"                          text="Volumen"/>
+          </tocitem>
+          <tocitem text="Music Theory">
+               <tocitem target="music_theory.chord_theory"              text="Chord Construction"/>
+               <tocitem target="music_theory.circle_of_fifths"          text="Circle of Fifths"/>
+               <tocitem target="music_theory.modes"                     text="Modes"/>
+          </tocitem>
+          <tocitem text="Tab Notation">
+               <tocitem target="tab_symbols"                            text="Simbolos paraTab Symbols"/>
+          </tocitem>
+     </tocitem>
+</toc>

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/330/trunk/src/com/beaglebuddy/tab/model/attribute/note
+END
+HammerOn.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/HammerOn.java
+END
+PullOff.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/PullOff.java
+END
+Bend.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/Bend.java
+END
+GhostNote.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/GhostNote.java
+END
+TieWrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/TieWrap.java
+END
+SlideOutOf.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/SlideOutOf.java
+END
+Muted.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/Muted.java
+END
+Tie.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/Tie.java
+END
+Octave.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/330/trunk/src/com/beaglebuddy/tab/model/attribute/note/Octave.java
+END
+HammerPullFromToNowhere.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/HammerPullFromToNowhere.java
+END
+Trill.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/324/trunk/src/com/beaglebuddy/tab/model/attribute/note/Trill.java
+END
+NaturalHarmonic.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/NaturalHarmonic.java
+END
+ArtificialHarmonic.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/330/trunk/src/com/beaglebuddy/tab/model/attribute/note/ArtificialHarmonic.java
+END
+NoteAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/NoteAttribute.java
+END
+SlideInto.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/SlideInto.java
+END
+TappedHarmonic.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/note/TappedHarmonic.java
+END

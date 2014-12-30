@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/340/trunk/src/com/beaglebuddy/tab/gui/dialog/music_symbols
+END
+DirectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/music_symbols/DirectionDialog.java
+END
+ChordNameDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/340/trunk/src/com/beaglebuddy/tab/gui/dialog/music_symbols/ChordNameDialog.java
+END
+OctaveDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/music_symbols/OctaveDialog.java
+END
+IrregularNoteGroupingDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/music_symbols/IrregularNoteGroupingDialog.java
+END

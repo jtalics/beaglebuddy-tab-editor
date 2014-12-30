@@ -1,0 +1,92 @@
+Once you have gotten a gmail account,
+I can add you as a project member.
+The project is located at http://code.google.com/p/beaglebuddy-tab-editor/
+You should be able to access the site now.
+
+In order to check out the code, you will need to do the following:
+1. install subversion client on your machine, which is available at http://downloads.open.collab.net/collabnet-subversion.html
+   choose the one appropriate for your os
+   ex: CollabNet Subversion Command Line Client Windows XP
+2. go to http://code.google.com/p/beaglebuddy-tab-editor/source
+   There is a link for you to click on which will show you what your computer generated googlecode.com password is.
+   Write down what the password is.
+3. Using your newly installed subversion client, use  the following command to check out the code:
+   svn checkout --username <gmail username> --password <whatever the password was from the previous step> https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/ c:/dev/projects/tab
+
+   ex: svn checkout --username sandy --password 123abc  https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/ c:/dev/projects/tab
+
+   you will get a message asking you to accept a certificate
+   (R)eject, accept (t)emporarily or accept (p)ermanently?
+   choose p.
+4. install the latest versions of ant and eclipse if you don't already have them, as well as java 1.6.
+   http://ant.apache.org/bindownload.cgi
+   http://www.eclipse.org/downloads/
+   http://java.sun.com/javase/downloads/?intcmp=1281
+5. set the following environment variables:
+   ANT_HOME   - points to root dir where ant  is installed
+   JAVA_HOME  - points to root dir where java is installed
+   SVN_EDITOR - editor to use for entering comments during subversion commits
+   TAB_HOME   - points to root dir where tab project is installed
+
+   ex:
+   ANT_HOME=c:\dev\tools\ant\1.7.0
+   JAVA_HOME=c:\dev\java\jdk\1.6.02
+   SVN_EDITOR=c:\windows\notepad.exe
+   TAB_HOME=c:\dev\projects\tab
+
+You should now be able to build from the command line by going to c:/dev/projects/tab/bin/ and running:
+1. make clean
+2. make tab
+
+Then, to start the tab editor, simply type:
+3. tab
+
+To set up eclipse:
+1. choose "File" - "new" - "Java Project"
+   set the name of the project to "tab"
+   choose "Create project from existing source"
+   specify the root directory of the tab project in the "Directory" text box:
+   ex: c:\dev\projects\tab
+2. click Next
+3. If you get a dialog box asking "The output folder has changed.  Do you want to remove the old location 'xxx\bin' and its content?
+   answer "No".
+4. "Source" tab
+   At bottom of screen, for the text box "Default output folder", choose classes
+   ex: xxx/classes
+5. Click "Finish"
+6. choose menus "windows" - "preferences" - "general" - "editors" - "text editors"
+   check: Insert spaces for tabs
+          Show line numbers
+7. in the "Package Explorer" window on left side of screen, there is a single white downward arrow.
+   click the arrow to get a drop down menu.  choose menus "package presentation" - "hierarchical"
+8. choose menus "Project" - "properties"
+   choose "libraries" tab
+   add the following libraries
+   1. beaglebuddy_ptb_file_reader.jar   from "tab\lib"
+   2. jhall.jar                         from "tab\lib"
+9. in the "Package Explorer" window on left side of screen, expand the "bin" folder.
+   right click the "build.xml" file.  choose "run as" - "2. Ant Build"
+   a. select the "Targets" tab.
+      make sure only the green "tab - calls tab_compile and tab_help targets, and creates a jar file" target is checked.
+   b. select the "Properties" tab.
+      uncheck "Use global properties as specified in the Ant runtime preferences".
+      click "Add Property" button on right side of screen
+      add the following three properties
+      1. basedir - c:\dev\projects\tab
+      2. debug   - true
+      3. tmp     - c:\dev\projects\tab\tmp
+   c. select the "Classpath" tab.
+      highlite the top "User Entries"
+      click "Add Jars" and add the following jars
+      1. beaglebuddy_ptb_file_reader.jar   from "tab\lib"
+      2. beaglebuddy_tab.jar               from "tab\lib"
+      3. jhall.lib                         from "tab\lib"
+      click "apply", then "close"
+10. select "Project", then "Properties" from the top menu
+    highlight "Run/Debug Settings" on the left side
+    choose "New", then "Java Application", and name it "Mainframe"
+    highlight "Mainframe" in the middle
+    click the "Edit" button on the right
+    choose the "Arguments" tab
+    in the second box down ("VM arguments"), add -Dtab.home=c:\dev\projects\tab
+    hit ok.

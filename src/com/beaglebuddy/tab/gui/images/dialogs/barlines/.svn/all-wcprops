@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/122/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines
+END
+bar_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/122/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/bar_selected.png
+END
+repeat_start.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/105/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/repeat_start.png
+END
+double_bar.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/105/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/double_bar.png
+END
+repeat_end_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/122/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/repeat_end_selected.png
+END
+double_bar_fine.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/105/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/double_bar_fine.png
+END
+none.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/122/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/none.png
+END
+repeat_end_start.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/105/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/repeat_end_start.png
+END
+bar.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/105/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/bar.png
+END
+repeat_start_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/122/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/repeat_start_selected.png
+END
+repeat_end.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/105/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/repeat_end.png
+END
+double_bar_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/122/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/double_bar_selected.png
+END
+none_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/122/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/none_selected.png
+END
+double_bar_fine_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/122/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/double_bar_fine_selected.png
+END
+repeat_end_start_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/122/trunk/src/com/beaglebuddy/tab/gui/images/dialogs/barlines/repeat_end_start_selected.png
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/instrument/instruments/controls
+END
+ComboBoxModelDrumMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/216/trunk/src/com/beaglebuddy/tab/gui/dialog/instrument/instruments/controls/ComboBoxModelDrumMap.java
+END
+ComboBoxModelSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/302/trunk/src/com/beaglebuddy/tab/gui/dialog/instrument/instruments/controls/ComboBoxModelSound.java
+END
+SpinnerCapoModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/216/trunk/src/com/beaglebuddy/tab/gui/dialog/instrument/instruments/controls/SpinnerCapoModel.java
+END
+InstrumentsTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/instrument/instruments/controls/InstrumentsTableModel.java
+END
+SpinnerNoteModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/216/trunk/src/com/beaglebuddy/tab/gui/dialog/instrument/instruments/controls/SpinnerNoteModel.java
+END
+SpinnerNumStringsModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/216/trunk/src/com/beaglebuddy/tab/gui/dialog/instrument/instruments/controls/SpinnerNumStringsModel.java
+END
+ComboBoxModelTuning.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/265/trunk/src/com/beaglebuddy/tab/gui/dialog/instrument/instruments/controls/ComboBoxModelTuning.java
+END

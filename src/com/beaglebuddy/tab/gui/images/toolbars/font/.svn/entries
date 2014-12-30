@@ -1,0 +1,54 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/src/com/beaglebuddy/tab/gui/images/toolbars/font
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2008-07-28T21:21:38.808027Z
+322
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+bold.gif
+file
+
+
+
+
+2008-08-24T15:22:05.140625Z
+28d5dfe40beaafbaa73f40649d543368
+2008-07-28T21:21:38.808027Z
+322
+joneric.wennerstrom
+has-props
+
+italic.gif
+file
+
+
+
+
+2008-08-24T15:22:05.156250Z
+8ad0f18f58315fb4ad02be1b6dfd9742
+2008-07-28T21:21:38.808027Z
+322
+joneric.wennerstrom
+has-props
+

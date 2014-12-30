@@ -1,0 +1,46 @@
+There is an existing free music notation editor called power tab, version 1.7, which is available
+for download at http://www.power-tab.net/guitar.php.  It was released 7 years ago, and the author
+has promised a version 2.0 ever since.  However, after 7 years of waiting, he has never released
+a new version.  The current version has some bugs, as well as some limitations.  Even with these
+shortcomings, the power tab editor has gained wide popularity for two main reasons:
+1. the editor is free
+2. people can submit\download transcribed songs to many hosting sites (analogous to mp3 sharing sites)
+
+This project is an attempt at being the successor to the power tab editor.
+It will fix the bugs in the existing release of power tab editor, and will remove the limitations
+that currently exist in the power tab editor.  The new music notation editor, called the beaglebuddy
+tab editor, will have the following features:
+
+1. written entirely in java
+   a. it will thus be able to run on any platform for which there is a jvm, as opposed to power tab,
+      which is written in Microsoft Visual C++ and MFC, and hence restricted to Windows machines.
+2. internationalized
+   a. support is currently built in for english, german, and spanish via resource bundles.
+   b. on-line help stored in html files is also internationalized.
+3. backwards compatible with the existing power tab editor
+   a. the author of the power tab editor has released the file format for power tab files.
+      code to read in existing power tab files (.ptb) and to convert them to the new beaglebuddy
+      format have already been written.
+   b. standalone converter which can be used by existing power tab file sharing sites to convert
+      their files to the new beaglebuddy format has been written.
+4. support for more instruments
+   a. the power tab editor is limited to 3 staffs and splits the music into two separate scores:
+      a "guitar" and a "bass" score.
+   b. the power tab editor does not support drums
+   c. the power tab editor has some notable bugs
+      1. can only copy and paste once.
+      2. not able to anchor text within a staff.
+      3. no support for staffs for vocals.
+   d. the beaglebuddy tab editor will rectify these short comings
+5. development of the beaglebuddy editor will use industry standard tools
+   a. ant            - for builds
+   b. eclipse        - ide for writing\refactoring code
+   c. java 1.6       - latest jdk
+   d. subversion     - for source code repository
+   e. google project - for hosting of project site
+
+
+
+There are currently two developers working on this project.
+Due to the amount of work that remains, it has been determined that two more programmers are needed in
+order to finish the application in a 6 month time frame.

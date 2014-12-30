@@ -1,0 +1,12 @@
+1. Other instrument is assumed to be a treble instrument, like a guitar, with 6 or 7 strings.
+   This really needs to be split into two instruments: Other (treble) and Other (bass).
+2. The ptb converter
+   a. needs to add the new Other (bass) instrument in its convertGuitars() method.
+   b. needs to try and determine what kind of staff is used (analagous to the way it tries to determine what kind of instrument is used in convertGuitars()).
+   c. name all tunings not found in the tuning dictionary "custom"
+3. need to refactor InstrumentIn
+   a. should only have one data member indicating which staff the instrument comes in on - not two like it does now (one for rhythm staff and one for regular staffs)
+   b. should not be an array of booleans, but rather an ArrayList<Byte> instrumentIds;
+   c. once this is done, propogate the change to the conversion and the ActiveInstruments class.
+4. investigate RhythmStaff.
+   a. can this be made into a derived class of Staff like all the other staffs, or does it need to remain its own unique type

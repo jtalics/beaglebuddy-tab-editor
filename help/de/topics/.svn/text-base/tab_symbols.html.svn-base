@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+   <head>
+      <title>Tab Symbols</title>
+   </head>
+   <body>
+      <img src="/images/beaglebuddy.gif"/>
+      <h1>Tab Symbols</h1>
+      <br/><br/><br/><br/>
+      <table border="0" cellpadding="10">
+         <tr>
+            <td>Bend</td>
+            <td><img border="0" src="../../images/tab_symbols/bend.gif" width="186" height="119" alt=""></td>
+            <td>Strike the note and bend up by the number of steps
+                indicated. (1/2 step = 1 fret) The term &quot;Full&quot; refers to a whole step bend. (2 frets)
+            </td>
+         </tr>
+         <tr>
+            <td>Bend and Release</td>
+            <td><img border="0" src="../../images/tab_symbols/bend.and_release.gif" width="186" height="119" alt=""></td>
+            <td>Strike the note and bend up by the number of steps indicated, then
+                release the bend back to the original note. Only the first note is struck.
+            </td>
+         </tr>
+         <tr>
+            <td>Pre-Bend</td>
+            <td><img border="0" src="../../images/tab_symbols/bend.pre.gif" width="186" height="119" alt=""></td>
+            <td>Bend the note up by the number of steps indicated, and then strike it.</td>
+         </tr>
+         <tr>
+            <td>Pre-Bend and Release</td>
+            <td><img border="0" src="../../images/tab_symbols/bend.pre_and_release.gif" width="186" height="119" alt=""></td>
+            <td>Bend the note up by the number of steps indicated, strike it and release the bend back to the original note.</td>
+         </tr>
+         <tr>
+            <td>Vibrato</td>
+            <td><img border="0" src="../../images/tab_symbols/vibrato.gif" width="186" height="106" alt=""></td>
+            <td>Vibrate the note by shaking (bending and releasing) the string with the fretting finger.</td>
+         </tr>
+         <tr>
+            <td>Wide Vibrato</td>
+            <td><img border="0" src="../../images/tab_symbols/vibrato.wide.gif" width="186" height="107" alt=""></td>
+            <td>Vibrate the pitch to a greater degree with the fretting finger or vibrato bar.</td>
+         </tr>
+         <tr>
+            <td>Legato Slide</td>
+            <td><img border="0" src="../../images/tab_symbols/slide.legato.gif" width="186" height="109" alt=""></td>
+            <td>Strike the first note and then with the same fretting finger slide up the string to the second note.
+                The second note is not struck
+            </td>
+         </tr>
+         <tr>
+            <td>Shift Slide</td>
+            <td><img border="0" src="../../images/tab_symbols/slide.shift.gif" width="186" height="109" alt=""></td>
+            <td>Same as above, except the second note is struck.</td>
+         </tr>
+         <tr>
+            <td>Slide Into (from below)</td>
+            <td><img border="0" src="../../images/tab_symbols/slide.into_from_below.gif" width="186" height="109" alt=""></td>
+            <td>Slide up to the note indicated from a few frets below.</td>
+         </tr>
+         <tr>
+            <td>Slide Into (from above)</td>
+            <td><img border="0" src="../../images/tab_symbols/slide.into_from_above.gif" width="186" height="109" alt=""></td>
+            <td>Slide down to the note indicated from a few frets above.</td>
+         </tr>
+         <tr>
+            <td>Slide Out Of (downwards)</td>
+            <td><img border="0" src="../../images/tab_symbols/slide.out_of_downwards.gif" width="186" height="109" alt=""></td>
+            <td>Slide out from the note indicated to a few frets below.</td>
+         </tr>
+         <tr>
+            <td>Slide Out Of (upwards)</td>
+            <td><img border="0" src="../../images/tab_symbols/slide.out_of_upwards.gif" width="186" height="109" alt=""></td>
+            <td>Slide out from the note indicated to a few frets above.</td>
+         </tr>
+         <tr>
+            <td>Hammer-On</td>
+            <td><img border="0" src="../../images/tab_symbols/hammer_on.gif" width="186" height="109" alt=""></td>
+            <td>Strike the first (lower) note, then sound the higher note with another finger by fretting it without picking.</td>
+         </tr>
+         <tr>
+            <td>Pull-Off</td>
+            <td><img border="0" src="../../images/tab_symbols/pull_off.gif" width="186" height="109" alt=""></td>
+            <td>Place both fingers on the notes to be sounded. Strike
+                the first (higher) note, then sound the lower note by pulling the finger
+                off the higher note while keeping the lower note fretted.
+            </td>
+         </tr>
+         <tr>
+            <td>Trill</td>
+            <td><img border="0" src="../../images/tab_symbols/trill.gif" width="186" height="108" alt=""></td>
+            <td>Very rapidly alternate between the note indicated and the small note shown in parentheses by hammering on and pulling off.</td>
+         </tr>
+         <tr>
+            <td>Tap</td>
+            <td><img border="0" src="../../images/tab_symbols/tap.gif" width="186" height="118" alt=""></td>
+            <td>Hammer (&quot;tap&quot;) the fret indicated with the picking hand index or middle finger and pull off to the note fretted by the fretting hand.</td>
+         </tr>
+         <tr>
+            <td>Natural Harmonic</td>
+            <td><img border="0" src="../../images/tab_symbols/harmonic.natural.gif" width="186" height="121" alt=""></td>
+            <td>With a fretting hand finger, lightly touch the string over the fret indicated, then strike it. A chime-like sound is produced.</td>
+         </tr>
+         <tr>
+            <td>Artificial Harmonic</td>
+            <td><img border="0" src="../../images/tab_symbols/harmonic.artificial.gif" width="186" height="119" alt=""></td>
+            <td>Fret the note normally and sound the harmonic by adding the picking hand thumb edge or index finger tip to the normal pick attack.</td>
+         </tr>
+         <tr>
+            <td>Tremolo Bar</td>
+            <td><img border="0" src="../../images/tab_symbols/tremolo_bar.gif" width="186" height="116" alt=""></td>
+            <td>Using the tremolo bar, drop the note by the number of steps indicated, then return to original pitch.</td>
+         </tr>
+         <tr>
+            <td>Palm Mute</td>
+            <td><img border="0" src="../../images/tab_symbols/palm_mute.gif" width="186" height="123" alt=""></td>
+            <td>Using the picking hand, partially mute the note by lightly touching the string just before the bridge.</td>
+         </tr>
+         <tr>
+            <td>Muted Note</td>
+            <td><img border="0" src="../../images/tab_symbols/muted_note.gif" width="186" height="99" alt=""></td>
+            <td>Lay the fretting hand across the strings without depressing them to the fretboard;
+                strike the strings with the picking hand, producing a percussive sound.
+            </td>
+         </tr>
+         <tr>
+            <td>Pick Slide</td>
+            <td><img border="0" src="../../images/tab_symbols/slide.pick.gif" width="186" height="101" alt=""></td>
+            <td>Rub the pick edge down the length of the string to produce a scratchy sound.</td>
+         </tr>
+         <tr>
+            <td>Tremolo Picking</td>
+            <td><img border="0" src="../../images/tab_symbols/tremolo_picking.gif" width="186" height="119" alt=""></td>
+            <td>Pick the note as rapidly and continuously as possible.</td>
+         </tr>
+         <tr>
+            <td>Pickstroke (down)</td>
+            <td><img border="0" src="../../images/tab_symbols/pick_stroke.down.gif" width="186" height="107" alt=""></td>
+            <td>Strike the note using a downward motion.</td>
+         </tr>
+         <tr>
+            <td>Pickstroke (up)</td>
+            <td><img border="0" src="../../images/tab_symbols/pick_stroke.up.gif" width="186" height="106" alt=""></td>
+            <td>Strike the note using a upward motion.</td>
+         </tr>
+         <tr>
+            <td>Rhythm Slashes</td>
+            <td><img border="0" src="../../images/tab_symbols/rhythm_slash.gif" width="186" height="133" alt=""></td>
+            <td>Strum the chords in the rhythm indicated.
+                Use the chord diagrams found at the top of the first page of the score to determine the fingering to use for each chord.
+            </td>
+         </tr>
+         <tr>
+            <td>Single-Note Rhythm Slashes</td>
+            <td><img border="0" src="../../images/tab_symbols/rhythm_slash.single_note.gif" width="186" height="148" alt=""></td>
+            <td>The circled number below the slash indicates which string to play. The number beside it represents the fret number.</td>
+         </tr>
+      </table>
+   </body>
+</html>

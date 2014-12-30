@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/345/trunk/src/com/beaglebuddy/tab/model
+END
+SectionBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/SectionBase.java
+END
+Chord.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/337/trunk/src/com/beaglebuddy/tab/model/Chord.java
+END
+Utility.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/185/trunk/src/com/beaglebuddy/tab/model/Utility.java
+END
+Beam.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/Beam.java
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/Section.java
+END
+Barline.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/Barline.java
+END
+TimeSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/TimeSignature.java
+END
+Midi.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/336/trunk/src/com/beaglebuddy/tab/model/Midi.java
+END
+Fretting.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/Fretting.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/Version.java
+END
+ChordDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/340/trunk/src/com/beaglebuddy/tab/model/ChordDictionary.java
+END
+RehearsalSign.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/RehearsalSign.java
+END
+Accidental.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/336/trunk/src/com/beaglebuddy/tab/model/Accidental.java
+END
+RestMultibarEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/144/trunk/src/com/beaglebuddy/tab/model/RestMultibarEnd.java
+END
+AlternateEnding.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/AlternateEnding.java
+END
+Tuning.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/Tuning.java
+END
+FontSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/321/trunk/src/com/beaglebuddy/tab/model/FontSetting.java
+END
+Note.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/333/trunk/src/com/beaglebuddy/tab/model/Note.java
+END
+RhythmSlash.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/RhythmSlash.java
+END
+Volume.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/Volume.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/Location.java
+END
+FloatingText.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/FloatingText.java
+END
+KeySignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/340/trunk/src/com/beaglebuddy/tab/model/KeySignature.java
+END
+Score.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/Score.java
+END
+Direction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/Direction.java
+END
+RestMultibarBegin.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/144/trunk/src/com/beaglebuddy/tab/model/RestMultibarBegin.java
+END
+ChordDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/307/trunk/src/com/beaglebuddy/tab/model/ChordDiagram.java
+END
+Duration.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/345/trunk/src/com/beaglebuddy/tab/model/Duration.java
+END
+Information.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/Information.java
+END
+TempoMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/TempoMarker.java
+END
+TuningDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/300/trunk/src/com/beaglebuddy/tab/model/TuningDictionary.java
+END
+RestMultibarMiddle.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/144/trunk/src/com/beaglebuddy/tab/model/RestMultibarMiddle.java
+END

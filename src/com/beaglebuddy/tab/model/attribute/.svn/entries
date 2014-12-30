@@ -1,0 +1,40 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/src/com/beaglebuddy/tab/model/attribute
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2008-08-02T04:00:17.025522Z
+330
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+chord
+dir
+
+note
+dir
+
+duration
+dir
+
+rhythm
+dir
+

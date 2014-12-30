@@ -1,0 +1,12 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+   <head>
+      <title>Chord Dictionary Dialog Box</title>
+   </head>
+   <body>
+      <img src="../../images/beaglebuddy.gif"/>
+      <h1>Chord Dictionary Dialog Box</h1>
+      <p>select a chord diagram from the chord dictionary.</p>
+   </body>
+</html>

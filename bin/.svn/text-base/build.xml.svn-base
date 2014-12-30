@@ -1,0 +1,231 @@
+<project name="tab" default="usage">
+
+     <!-- set global properties for this build -->
+     <property name="bin_dir"             value="bin"/>
+     <property name="class_dir"           value="classes"/>
+     <property name="data_dir"            value="data"/>
+     <property name="help_dir"            value="help"/>
+     <property name="javadoc_dir"         value="doc/javadoc"/>
+     <property name="lib_dir"             value="lib"/>
+     <property name="release_dir"         value="release"/>
+     <property name="src_dir"             value="src"/>
+     <property name="tmp_dir"             value="tmp"/>
+
+
+
+     <!-- .................................................................. -->
+     <!-- remove all class files and javadocs -->
+     <target name="clean" description="deletes all the class files, help jar files, javadoc files">
+          <delete quiet="true" dir="${class_dir}"/>
+          <mkdir               dir="${class_dir}"/>
+          <delete quiet="true" dir="${javadoc_dir}"/>
+          <mkdir               dir="${javadoc_dir}"/>
+          <delete quiet="true" dir="${release_dir}"/>
+          <mkdir               dir="${release_dir}"/>
+          <delete quiet="true" file="${lib_dir}/beaglebuddy_tab.jar"/>
+          <delete quiet="true" file="${lib_dir}/beaglebuddy_tab_help.de.jar"/>
+          <delete quiet="true" file="${lib_dir}/beaglebuddy_tab_help.en.jar"/>
+          <delete quiet="true" file="${lib_dir}/beaglebuddy_tab_help.es.jar"/>
+          <delete quiet="true" dir="${tmp_dir}"/>
+          <mkdir               dir="${tmp_dir}/bbt"/>
+          <mkdir               dir="${tmp_dir}/bbt_txt"/>
+          <mkdir               dir="${tmp_dir}/ptb_txt"/>
+     </target>
+
+
+     <!-- .................................................................. -->
+     <target name="init"><tstamp/></target>
+
+
+     <!-- .................................................................. -->
+     <target name="gp_compile" depends="init">
+          <javac srcdir="${src_dir}\com\beaglebuddy\gp" destdir="${class_dir}" debug="${debug}" deprecation="on" failonerror="true">
+             <compilerarg value="-Xlint:unchecked"/>
+          </javac>
+     </target>
+
+
+     <!-- ............................................................................................................................................................................................. -->
+     <target name="ptb" depends="ptb_compile">
+        <delete quiet="true" file="${tmp_dir}/*.*"/>
+        <copy file="${bin_dir}/manifest/ptb_file_reader_manifest.mf" tofile="${tmp_dir}/MANIFEST.MF" overwrite="true"/>
+        <copy todir="${class_dir}" overwrite="true"><fileset dir="${src_dir}"><include name="**/*.properties"/></fileset></copy>
+        <delete quiet="true" dir="${class_dir}/com/beaglebuddy/tab"/>
+        <delete quiet="true" file="${tmp_dir}/beaglebuddy_ptb_file_reader.jar"/>
+        <jar destfile="${lib_dir}/beaglebuddy_ptb_file_reader.jar" basedir="${class_dir}" manifest="${tmp_dir}/MANIFEST.MF" update="false">
+           <fileset dir="${class_dir}">
+              <include name="**/*.class"/>
+              <include name="**/*.properties"/>
+           </fileset>
+        </jar>
+<!--    <zip destfile="${tmp_dir}/beaglebuddy_ptb_file_reader_source.zip"   basedir="${src_dir}"  includes="com/beaglebuddy/ptb/**/*.java" />     -->
+<!--    <zip destfile="${tmp_dir}/beaglebuddy_ptb_file_reader_javadocs.zip" basedir="${javadoc_dir}"/>                                            -->
+<!--    <copy file="${bin_dir}/readme.txt" todir="${tmp_dir}" overwrite="yes"/>                                                                   -->
+<!--    <zip destfile="${lib_dir}/beaglebuddy_ptb_file_reader.zip" basedir="${tmp_dir}">                                                          -->
+<!--       <include name="**/*.jar"/>                                                                                                             -->
+<!--       <include name="**/*.zip"/>                                                                                                             -->
+<!--       <include name="**/*.txt"/>                                                                                                             -->
+<!--    </zip>                                                                                                                                    -->
+<!--    <move file="${tmp_dir}/beaglebuddy_ptb_file_reader.jar" todir="${lib_dir}" overwrite="true"/> -->
+        <delete quiet="true" file="${tmp_dir}/*.*"/>
+     </target>
+
+
+     <!-- .................................................................. -->
+     <target name="ptb_compile" depends="init">
+          <javac srcdir="${src_dir}\com\beaglebuddy\ptb" destdir="${class_dir}" debug="${debug}" deprecation="on" failonerror="true">
+             <compilerarg value="-Xlint:unchecked"/>
+          </javac>
+     </target>
+
+
+     <!-- .................................................................. -->
+     <target name="ptb_javadocs" depends="init">
+          <property name="title" value="Beaglebuddy Power Tab File Reader Documentation"/>
+          <javadoc Overview="${src_dir}/overview.html"
+                   Doctitle="${title}"
+                   Header="${title}"
+                   Windowtitle="${title}"
+                   sourcepath="${src_dir}"
+                   destdir="${javadoc_dir}"
+                   packagenames="com.beaglebuddy.ptb,
+                                 com.beaglebuddy.ptb.attribute.note,
+                                 com.beaglebuddy.ptb.attribute.position,
+                                 com.beaglebuddy.ptb.attribute.rhythm,
+                                 com.beaglebuddy.ptb.io,
+                                 com.beaglebuddy.ptb.resource_bundle,
+                                 com.beaglebuddy.ptb.test"/>
+     </target>
+
+
+
+
+
+
+
+     <!-- ............................................................................................................................................................................................. -->
+     <target name="tab" depends="tab_compile" description="calls tab_compile and tab_help targets, and creates a jar file">
+        <delete quiet="true" file="${tmp_dir}/*.*"/>
+        <copy file="${bin_dir}/manifest/tab_manifest.mf" tofile="${tmp_dir}/MANIFEST.MF" overwrite="true"/>
+        <copy todir="${class_dir}" overwrite="true"><fileset dir="${src_dir}"><include name="**/*.properties"/></fileset></copy>
+        <delete quiet="true" dir="${class_dir}/com/beaglebuddy/ptb"/>
+        <jar destfile="${lib_dir}/beaglebuddy_tab.jar" manifest="${tmp_dir}/MANIFEST.MF" update="false">
+           <fileset dir="${class_dir}">
+              <include name="**/*.class"/>
+              <include name="**/*.properties"/>
+           </fileset>
+           <fileset dir="${src_dir}/com/beaglebuddy/tab/gui">
+              <include name="images/**/*.gif"/>
+              <include name="images/**/*.jpg"/>
+              <include name="images/**/*.png"/>
+           </fileset>
+        </jar>
+        <antcall target="tab_help"/>
+        <delete quiet="false" file="${tmp_dir}/*.*"/>
+     </target>
+
+
+     <!-- .................................................................. -->
+     <target name="tab_compile" depends="init" description="compile the tab source code">
+          <javac srcdir="${src_dir}\com\beaglebuddy\tab" destdir="${class_dir}" classpath="${classpath}" debug="${debug}" deprecation="on" failonerror="true">
+             <compilerarg value="-Xlint:unchecked"/>
+          </javac>
+     </target>
+
+
+     <!-- .................................................................. -->
+     <target name="tab_help" depends="init" description="build the help jar files for each supported language">
+        <jar destfile="${lib_dir}/beaglebuddy_tab_help.de.jar" update="false">
+           <fileset dir="${help_dir}">    <include name="images/**/*.*"/> </fileset>
+           <fileset dir="${help_dir}">    <include name="map.jhm"/>       </fileset>
+           <fileset dir="${help_dir}/de"> <include name="**/*.*"/>        </fileset>
+        </jar>
+        <jar destfile="${lib_dir}/beaglebuddy_tab_help.en.jar" update="false">
+           <fileset dir="${help_dir}">    <include name="images/**/*.*"/> </fileset>
+           <fileset dir="${help_dir}">    <include name="map.jhm"/>       </fileset>
+           <fileset dir="${help_dir}/en"> <include name="**/*.*"/>        </fileset>
+        </jar>
+        <jar destfile="${lib_dir}/beaglebuddy_tab_help.es.jar" update="false">
+           <fileset dir="${help_dir}">    <include name="images/**/*.*"/> </fileset>
+           <fileset dir="${help_dir}">    <include name="map.jhm"/>       </fileset>
+           <fileset dir="${help_dir}/es"> <include name="**/*.*"/>        </fileset>
+        </jar>
+     </target>
+
+
+     <!-- .................................................................. -->
+     <target name="tab_javadocs" depends="init"  description="generate the javadocs for the tab class files">
+          <property name="title" value="Beaglebuddy Tab Editor Documentation"/>
+          <javadoc Overview="${src_dir}/overview.html"
+                   Doctitle="${title}"
+                   Header="${title}"
+                   Windowtitle="${title}"
+                   sourcepath="${src_dir}"
+                   destdir="${javadoc_dir}"
+                   packagenames="com.beaglebuddy.ptb,
+                                 com.beaglebuddy.ptb.attribute.note,
+                                 com.beaglebuddy.ptb.attribute.position
+                                 com.beaglebuddy.ptb.attribute.rhythm,
+                                 com.beaglebuddy.ptb.io,
+                                 com.beaglebuddy.ptb.resource_bundle,
+                                 com.beaglebuddy.tab.conversion,
+                                 com.beaglebuddy.tab.gui,
+                                 com.beaglebuddy.tab.gui.action,
+                                 com.beaglebuddy.tab.gui.action.menu,
+                                 com.beaglebuddy.tab.gui.action.menu.edit,
+                                 com.beaglebuddy.tab.gui.action.menu.help,
+                                 com.beaglebuddy.tab.gui.action.menu.instrument,
+                                 com.beaglebuddy.tab.gui.action.menu.song,
+                                 com.beaglebuddy.tab.gui.action.menu.staff,
+                                 com.beaglebuddy.tab.gui.action.menu.tools,
+                                 com.beaglebuddy.tab.gui.action.toolbar,
+                                 com.beaglebuddy.tab.gui.action.toolbar.midi,
+                                 com.beaglebuddy.tab.gui.dialog,
+                                 com.beaglebuddy.tab.gui.dialog.chord,
+                                 com.beaglebuddy.tab.gui.dialog.chord.diagram,
+                                 com.beaglebuddy.tab.gui.dialog.chord.dictionary,
+                                 com.beaglebuddy.tab.gui.dialog.chord.name,
+                                 com.beaglebuddy.tab.gui.dialog.color,
+                                 com.beaglebuddy.tab.gui.dialog.instrument,
+                                 com.beaglebuddy.tab.gui.dialog.instrument.assignment,
+                                 com.beaglebuddy.tab.gui.dialog.instrument.drum_map,
+                                 com.beaglebuddy.tab.gui.dialog.instrument.instruments,
+                                 com.beaglebuddy.tab.gui.dialog.instrument.instruments.controls,
+                                 com.beaglebuddy.tab.gui.dialog.music_symbols,
+                                 com.beaglebuddy.tab.gui.dialog.preferences,
+                                 com.beaglebuddy.tab.gui.dialog.tab_symbols,
+                                 com.beaglebuddy.tab.gui.mainframe,
+                                 com.beaglebuddy.tab.io,
+                                 com.beaglebuddy.tab.model,
+                                 com.beaglebuddy.tab.model.attribute.chord,
+                                 com.beaglebuddy.tab.model.attribute.duration,
+                                 com.beaglebuddy.tab.model.attribute.note,
+                                 com.beaglebuddy.tab.model.attribute.rhythm,
+                                 com.beaglebuddy.tab.model.instrument,
+                                 com.beaglebuddy.tab.model.song,
+                                 com.beaglebuddy.tab.model.staff,
+                                 com.beaglebuddy.tab.resource_bundle,
+                                 com.beaglebuddy.tab.test"/>
+     </target>
+
+
+     <!-- .................................................................. -->
+     <target name="tab_release" depends="init" description="creates a zip file with all the jars needed to run the beaglebuddy tab editor.">
+          <delete quiet="true" file="${release_dir}/beaglebuddy_tab_editor.zip"/>
+          <zip destfile="${release_dir}/beaglebuddy_tab_editor.zip" compress="true" level="9">
+              <fileset dir="${basedir}"            > <include name="${bin_dir}/tab.cmd"            />  </fileset>
+              <fileset dir="${basedir}"            > <include name="${bin_dir}/check_env_vars.cmd" />  </fileset>
+              <fileset dir="${basedir}/doc"        > <include name="readme.txt"                    />  </fileset>
+              <fileset dir="${basedir}"            > <include name="${lib_dir}/**/*.jar"           />  </fileset>
+              <fileset dir="${basedir}"            > <include name="${data_dir}/**/*.dictionary"   />  </fileset>
+              <fileset dir="${basedir}/${data_dir}"> <include name="**/*.ttf"                      />  </fileset>
+          </zip>
+     </target>
+
+
+     <!-- .................................................................. -->
+     <target name="usage"  description="display the list of public targets">
+          <echo message="make [clean | ptb | ptb_compile | tab | tab_compile | tab_help | tab_javadocs | tab_release]"/>
+     </target>
+
+</project>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE map PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN" "http://java.sun.com/products/javahelp/map_2_0.dtd">
+
+<!-- this file maps help topic ids to the url (html file) which contains the help topic text -->
+<map version="1.0">
+     <mapID target="toplevelfolder"                    url="images/toplevel.gif"/>
+     <mapID target="intro"                             url="topics/intro.html"/>
+     <mapID target="overview"                          url="topics/overview.html"/>
+     <mapID target="getting_started"                   url="topics/getting_started.html"/>
+     <mapID target="power_tab_conversion"              url="topics/power_tab_conversion.html"/>
+     <mapID target="dialog.arpeggio"                   url="topics/dialog/arpeggio.html"/>
+     <mapID target="dialog.alternate_ending"           url="topics/dialog/alternate_ending.html"/>
+     <mapID target="dialog.barline"                    url="topics/dialog/barline.html"/>
+     <mapID target="dialog.bend"                       url="topics/dialog/bend.html"/>
+     <mapID target="dialog.chord_diagrams"             url="topics/dialog/chord_diagrams.html"/>
+     <mapID target="dialog.chord_dictionary"           url="topics/dialog/chord_dictionary.html"/>
+     <mapID target="dialog.chord_name"                 url="topics/dialog/chord_name.html"/>
+     <mapID target="dialog.direction"                  url="topics/dialog/direction.html"/>
+     <mapID target="dialog.dive"                       url="topics/dialog/dive.html"/>
+     <mapID target="dialog.drum_map"                   url="topics/dialog/drum_map.html"/>
+     <mapID target="dialog.fingering"                  url="topics/dialog/fingering.html"/>
+     <mapID target="dialog.goto.measure"               url="topics/dialog/goto_measure.html"/>
+     <mapID target="dialog.goto.section"               url="topics/dialog/goto_section.html"/>
+     <mapID target="dialog.harmonic"                   url="topics/dialog/harmonic.html"/>
+     <mapID target="dialog.instrument.add"             url="topics/dialog/instrument_add.html"/>
+     <mapID target="dialog.instrument.assign"          url="topics/dialog/instrument_assign.html"/>
+     <mapID target="dialog.instruments"                url="topics/dialog/instruments.html"/>
+     <mapID target="dialog.irregular_note_grouping"    url="topics/dialog/irregular_note_grouping.html"/>
+     <mapID target="dialog.key_signature"              url="topics/dialog/key_signature.html"/>
+     <mapID target="dialog.num_tab_lines"              url="topics/dialog/num_tab_lines.html"/>
+     <mapID target="dialog.octave"                     url="topics/dialog/octave.html"/>
+     <mapID target="dialog.pickstroke"                 url="topics/dialog/pickstroke.html"/>
+     <mapID target="dialog.preferences.midi"           url="topics/dialog/preferences/midi.html"/>
+     <mapID target="dialog.print_options"              url="topics/dialog/print_options.html"/>
+     <mapID target="dialog.rehearsal_sign"             url="topics/dialog/rehearsal_sign.html"/>
+     <mapID target="dialog.slide"                      url="topics/dialog/slide.html"/>
+     <mapID target="dialog.song.information"           url="topics/dialog/information.html"/>
+     <mapID target="dialog.text"                       url="topics/dialog/text.html"/>
+     <mapID target="dialog.tempo"                      url="topics/dialog/tempo.html"/>
+     <mapID target="dialog.time_signature"             url="topics/dialog/time_signature.html"/>
+     <mapID target="dialog.trill"                      url="topics/dialog/trill.html"/>
+     <mapID target="dialog.vibrato"                    url="topics/dialog/vibrato.html"/>
+     <mapID target="dialog.volume"                     url="topics/dialog/volume.html"/>
+     <mapID target="music_theory.chord_theory"         url="topics/music_theory/chord_theory.html"/>
+     <mapID target="music_theory.circle_of_fifths"     url="topics/music_theory/circle_of_fifths.html"/>
+     <mapID target="music_theory.modes"                url="topics/music_theory/modes.html"/>
+     <mapID target="tab_symbols"                       url="topics/tab_symbols.html"/>
+</map>

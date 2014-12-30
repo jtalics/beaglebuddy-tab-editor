@@ -1,0 +1,67 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/src/com/beaglebuddy/tab/gui/dialog/instrument/instruments
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2008-07-21T23:07:01.359526Z
+308
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+InstrumentAddDialog.java
+file
+
+
+
+
+2008-08-24T15:21:13.078125Z
+4fadba23eb9c30fbe9b9eb88e1951dec
+2008-07-19T11:16:41.746009Z
+305
+joneric.wennerstrom
+
+controls
+dir
+
+InstrumentsBaseDialog.java
+file
+
+
+
+
+2008-08-24T15:21:13.093750Z
+07660e36c8cb4e1c6757cad0de18d18e
+2008-07-18T22:59:16.988343Z
+302
+joneric.wennerstrom
+
+InstrumentsDialog.java
+file
+
+
+
+
+2008-08-24T15:21:13.125000Z
+c29316f7bc43827ee64b79e496c03541
+2008-07-21T23:07:01.359526Z
+308
+joneric.wennerstrom
+

@@ -1,0 +1,46 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/src/com/beaglebuddy/tab/gui/action
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2008-08-11T20:43:24.925803Z
+342
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+toolbar
+dir
+
+menu
+dir
+
+BaseAction.java
+file
+
+
+
+
+2008-08-24T15:22:51.703125Z
+cd519a5ffc3fb5b0a5a02e9c17cdd124
+2008-01-16T06:24:15.572621Z
+144
+joneric.wennerstrom
+

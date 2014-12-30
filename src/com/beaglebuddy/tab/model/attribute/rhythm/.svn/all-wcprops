@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm
+END
+ChordName.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/ChordName.java
+END
+Staccato.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/Staccato.java
+END
+ArpeggioUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/ArpeggioUp.java
+END
+AccentMarcato.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/AccentMarcato.java
+END
+SlideOutOfDownwards.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/SlideOutOfDownwards.java
+END
+PickStrokeDown.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/PickStrokeDown.java
+END
+TripletFeel1st.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/TripletFeel1st.java
+END
+SlideIntoFromBelow.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/SlideIntoFromBelow.java
+END
+SingleNote.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/SingleNote.java
+END
+Muted.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/Muted.java
+END
+SlideOutOfUpwards.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/SlideOutOfUpwards.java
+END
+PickStrokeUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/PickStrokeUp.java
+END
+TripletFeel2nd.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/TripletFeel2nd.java
+END
+AccentSforzando.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/AccentSforzando.java
+END
+Tied.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/Tied.java
+END
+ArpeggioDown.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/ArpeggioDown.java
+END
+RhythmSlashAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/RhythmSlashAttribute.java
+END
+SlideIntoFromAbove.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/rhythm/SlideIntoFromAbove.java
+END

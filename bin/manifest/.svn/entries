@@ -1,0 +1,52 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/bin/manifest
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2007-09-14T15:20:10.238888Z
+2
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+ptb_file_reader_manifest.mf
+file
+
+
+
+
+2008-08-24T16:21:34.359375Z
+453f2aed4fbce4e4f108a3a267692fed
+2007-09-14T15:20:10.238888Z
+2
+joneric.wennerstrom
+
+tab_manifest.mf
+file
+
+
+
+
+2008-08-24T16:21:34.359375Z
+fae38e109ba53196e6b80a0d9cc48503
+2007-09-14T15:20:10.238888Z
+2
+joneric.wennerstrom
+

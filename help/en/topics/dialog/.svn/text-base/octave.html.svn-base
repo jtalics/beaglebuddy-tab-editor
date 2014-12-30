@@ -1,0 +1,16 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+   <head>
+      <title>Octave Dialog Box</title>
+   </head>
+   <body>
+      <img src="../../images/beaglebuddy.gif"/>
+      <h1>Octave Dialog Box</h1>
+      <p>Select the desired octave.</p>
+      octave above (ottava): play the note one octave higher than written.
+      octave below (ottava bassa): play the note one octave lower than written.
+      fifteenth above (quindicesima): play the note two octaves higher than written.
+      fifteenth below (quindicesima bassa): play the note two octaves lower than written.
+   </body>
+</html>

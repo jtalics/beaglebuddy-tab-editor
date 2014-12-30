@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/duration
+END
+Dotted.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/duration/Dotted.java
+END
+IrregularGrouping.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/duration/IrregularGrouping.java
+END
+DurationAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/duration/DurationAttribute.java
+END
+Rest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/duration/Rest.java
+END
+MultibarRest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/duration/MultibarRest.java
+END
+DottedDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/duration/DottedDouble.java
+END

@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+   <head>
+      <title>Chord Diagrams Dialog Box</title>
+   </head>
+   <body>
+      <img src="../../images/beaglebuddy.gif"/>
+      <h1>Chord Diagrams Dialog Box</h1>
+      <p>Add, edit, and delete chord diagrams for the song.</p>
+      chord diagrams can be associated with the following types of instruments:
+      <ul>
+         <li>guitar</li>
+         <li>keyboards</li>
+         <li>other (treble)</li>
+         <li>vocals</li>
+      </ul>
+   </body>
+</html>

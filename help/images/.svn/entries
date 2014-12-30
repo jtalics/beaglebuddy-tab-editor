@@ -1,0 +1,60 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/help/images
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2008-07-31T15:07:39.094119Z
+328
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+music_theory
+dir
+
+beaglebuddy.gif
+file
+
+
+
+
+2008-08-24T15:23:12.703125Z
+ad7bf05943e6a24e2df1fcffb83c7a90
+2007-12-18T03:50:45.744949Z
+105
+joneric.wennerstrom
+has-props
+
+tab_symbols
+dir
+
+toplevel.gif
+file
+
+
+
+
+2008-08-24T15:23:12.703125Z
+2c2e37cb7275068c35ee58ab29e7958b
+2007-09-22T02:47:32.852341Z
+12
+joneric.wennerstrom
+has-props
+

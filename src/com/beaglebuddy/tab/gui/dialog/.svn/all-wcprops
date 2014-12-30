@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/358/trunk/src/com/beaglebuddy/tab/gui/dialog
+END
+TimeSignatureDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/TimeSignatureDialog.java
+END
+NumTabLinesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/NumTabLinesDialog.java
+END
+TextDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/329/trunk/src/com/beaglebuddy/tab/gui/dialog/TextDialog.java
+END
+TempoDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/TempoDialog.java
+END
+OkCancelHelpButtonPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/144/trunk/src/com/beaglebuddy/tab/gui/dialog/OkCancelHelpButtonPanel.java
+END
+RehearsalSignDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/RehearsalSignDialog.java
+END
+GotoMeasureDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/GotoMeasureDialog.java
+END
+GotoSectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/GotoSectionDialog.java
+END
+CustomFocusTraversalPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/CustomFocusTraversalPolicy.java
+END
+AlternateEndingDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/AlternateEndingDialog.java
+END
+VolumeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/VolumeDialog.java
+END
+PrintOptionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/341/trunk/src/com/beaglebuddy/tab/gui/dialog/PrintOptionsDialog.java
+END
+AboutDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/AboutDialog.java
+END
+BaseDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/BaseDialog.java
+END
+KeySignatureDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/KeySignatureDialog.java
+END
+SongInformationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/341/trunk/src/com/beaglebuddy/tab/gui/dialog/SongInformationDialog.java
+END
+BarlineDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/dialog/BarlineDialog.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/341/trunk/src/com/beaglebuddy/tab/gui/action/menu/instrument
+END
+ChordDiagramAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/341/trunk/src/com/beaglebuddy/tab/gui/action/menu/instrument/ChordDiagramAction.java
+END
+DrumMapAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/instrument/DrumMapAction.java
+END
+InstrumentsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/308/trunk/src/com/beaglebuddy/tab/gui/action/menu/instrument/InstrumentsAction.java
+END
+InstrumentAssignAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/340/trunk/src/com/beaglebuddy/tab/gui/action/menu/instrument/InstrumentAssignAction.java
+END

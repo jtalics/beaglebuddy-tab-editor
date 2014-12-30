@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/357/trunk/src/com/beaglebuddy/tab/gui/dialog/chord/diagram
+END
+ChordDiagramsTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/310/trunk/src/com/beaglebuddy/tab/gui/dialog/chord/diagram/ChordDiagramsTableModel.java
+END
+ListModelChordNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/310/trunk/src/com/beaglebuddy/tab/gui/dialog/chord/diagram/ListModelChordNames.java
+END
+Observable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/310/trunk/src/com/beaglebuddy/tab/gui/dialog/chord/diagram/Observable.java
+END
+ChordDiagramsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/357/trunk/src/com/beaglebuddy/tab/gui/dialog/chord/diagram/ChordDiagramsDialog.java
+END
+ChordDiagramCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/357/trunk/src/com/beaglebuddy/tab/gui/dialog/chord/diagram/ChordDiagramCellRenderer.java
+END
+ChordDiagramEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/355/trunk/src/com/beaglebuddy/tab/gui/dialog/chord/diagram/ChordDiagramEditor.java
+END
+ChordDiagramRenderAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/340/trunk/src/com/beaglebuddy/tab/gui/dialog/chord/diagram/ChordDiagramRenderAttributes.java
+END
+ChordDiagramRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/349/trunk/src/com/beaglebuddy/tab/gui/dialog/chord/diagram/ChordDiagramRenderer.java
+END

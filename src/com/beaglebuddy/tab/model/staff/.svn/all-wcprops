@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/329/trunk/src/com/beaglebuddy/tab/model/staff
+END
+RhythmStaff.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/300/trunk/src/com/beaglebuddy/tab/model/staff/RhythmStaff.java
+END
+TrebleStaff.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/156/trunk/src/com/beaglebuddy/tab/model/staff/TrebleStaff.java
+END
+Staff.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/300/trunk/src/com/beaglebuddy/tab/model/staff/Staff.java
+END
+KeyboardStaff.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/300/trunk/src/com/beaglebuddy/tab/model/staff/KeyboardStaff.java
+END
+DrumStaff.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/227/trunk/src/com/beaglebuddy/tab/model/staff/DrumStaff.java
+END
+BassStaff.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/226/trunk/src/com/beaglebuddy/tab/model/staff/BassStaff.java
+END
+StaffBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/329/trunk/src/com/beaglebuddy/tab/model/staff/StaffBase.java
+END

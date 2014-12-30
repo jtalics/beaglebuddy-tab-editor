@@ -1,0 +1,52 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/src/com/beaglebuddy/tab/gui/layout
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2008-07-19T11:16:41.746009Z
+305
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+PointLayoutProperties.java
+file
+
+
+
+
+2008-08-24T15:22:52.390625Z
+db9922e9c907fc37e00f350a8a526d6f
+2008-07-19T11:16:41.746009Z
+305
+joneric.wennerstrom
+
+PointLayout.java
+file
+
+
+
+
+2008-08-24T15:22:52.406250Z
+50425f2729b7ca301c14ab8379ffc1a2
+2008-07-18T19:27:50.229811Z
+301
+jtalafous
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/341/trunk/src/com/beaglebuddy/tab/model/song
+END
+BaseSong.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/341/trunk/src/com/beaglebuddy/tab/model/song/BaseSong.java
+END
+Song.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/341/trunk/src/com/beaglebuddy/tab/model/song/Song.java
+END
+RepeatStackEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/233/trunk/src/com/beaglebuddy/tab/model/song/RepeatStackEntry.java
+END
+MidiSong.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/341/trunk/src/com/beaglebuddy/tab/model/song/MidiSong.java
+END

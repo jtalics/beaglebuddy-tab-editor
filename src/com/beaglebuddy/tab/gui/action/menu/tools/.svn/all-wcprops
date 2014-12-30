@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/tools
+END
+MidiAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/tools/MidiAction.java
+END
+LanguageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/tools/LanguageAction.java
+END
+ScoreValidateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/tools/ScoreValidateAction.java
+END
+ScoreLayoutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/tools/ScoreLayoutAction.java
+END

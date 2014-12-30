@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/edit
+END
+InsertAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/edit/InsertAction.java
+END
+UndoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/edit/UndoAction.java
+END
+GotoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/edit/GotoAction.java
+END
+CopyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/edit/CopyAction.java
+END
+CutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/edit/CutAction.java
+END
+PasteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/edit/PasteAction.java
+END
+FindAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/action/menu/edit/FindAction.java
+END

@@ -1,0 +1,70 @@
+tasks
+-----
+
+1. ptb score merger - need an algorithm for merging separate ptb guitar and bass scores into a single unified score
+2. layout manager   - analagous to java layout managers, this code will format a score, aligning notes,
+                      setting staff sizes, etc.
+3. midi playback    - plays back a score on the user's computer.
+4. drawing          - code to draw a musical score.
+5. editing          - allows users to modify a score.  dependent on the dialog boxes.
+6. printing
+7. dialog boxes     - allows user's to choose options
+8. on-line help     - will need to be written and translated into german and spanish
+9. toolbars         - numerous toolbars to make editing easier (as opposed to using menus)
+10.docking toolbars - JPanel support for docking toolbars needs to be added for a custom point layout manager
+11.song checker     - analagous to a compiler, need a method to verify that a song is valid (matching repeat bars,
+                      notes in a measure equal time signature, etc.
+12.export to midi   - would like to be able to export the corresponding midi sequence to a file
+
+
+
+toolbars
+1. main              - new, open, save, print, edit, cut, copy paste
+2. midi              - play from beginning, play from current position, stop, pause
+3. note              - melody line, 32nd, ..., whole, dotted, double dotted
+4. rest              - melody line, 32nd, ..., whole, dotted, double dotted
+5. instrument        - edit\new instrument, instrument in, chord diagrams, etc.
+6. music symbols     - key, time signature, alternate ending, volume dynamic, rehearsal symbol, etc.
+7. note attributes   - bend, pull off, tie, etc.
+8. chord attributes  - let ring, palm mute, tremolo bar, etc.
+9. rhythm attributes - muted, slide out, etc.
+
+
+dialog boxes
+- 1.  about                   - miscellaneous information about the version, link to beaglebuddy home page,
+x 2.  information             - input boxes for title, artist, music by, words by, transcribed by, performance notes, etc
+x 3.  midi device             - list box of available midi playback devices on the user's computer
+  4.  printing                - check boxes for performance notes, tab legend, which instruments (all, guitar, bass, etc), drum map, etc.
+  5.  toolbars                - check box for each available toolbar allowing user to turn toolbars on\off
+- 6.  goto                    - specify section, measure
+x 7.  new instrument          - lets a user create and name a new instrument, choose midi sound for playback, choose # of strings, tuning for each string, etc.
+- 8.  chord diagram           - shows a guitar neck, lets user mark which frets to play, which are muted, which are open
+- 9.  chord name              - lets user construct the name of a chord (major or minor, sus2, sus4, add9, add11. etc
+  10. tab symbols             - let users specify a tab symbol to describe how to play the note
+   -  1  bend
+      2  hammer_on_pull_off
+      3  harmonic
+      4  muted_note
+      7  pickstroke
+    - 8  slide
+      9  tap
+      10 trill
+      11 tremolo_bar
+      12 vibrato
+x 11. tempo marker            - lets user set metronome value, straight or swing feel, description, etc
+x 12. drum map                - lets users map midi drums to the drum staff.  allows them to save their mappings.
+x 13. key signature           - let's users pick a key
+x 14. time signature          - lets users specify a time signature (beats per measure, beat amount, common or cut time, etc)
+- 15. direction               - coda, segno, fine, capo, etc.
+x 16. alt. ending             - user picks numbers in repeat bar
+x 17. bar line                - single measure, repeat begin\end, end of section, end of score
+- 18. volume                  - radio buttons of predefined volume levels
+- 19. bend                    - specify bend type (bend and hold, bend and release, prebend, release, etc) and amount
+- 10. dive                    - spinner box to specify amount
+x 21. tuning dictionary       - comes with a set of predefined standard tunings plus lets users save their own tunings
+- 22. irregular note grouping - 2 spinner controls for specifying the number of notes and the value they are played over
+x 23. rehearsal sign          - spinner of capital letters and a description input box
+- 24. num tab lines in staff  - spinner with min and max limits for the type of staff
+
+don't need this dialog box
+  chord dictionary        - let's users save chords for later recall

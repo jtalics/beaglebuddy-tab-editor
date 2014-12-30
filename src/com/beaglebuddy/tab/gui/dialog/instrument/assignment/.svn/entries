@@ -1,0 +1,52 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/src/com/beaglebuddy/tab/gui/dialog/instrument/assignment
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2008-08-08T22:09:28.504950Z
+340
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+InstrumentAssignTableModel.java
+file
+
+
+
+
+2008-08-24T15:21:10.750000Z
+304136cb245fbffec5069eef973a0db0
+2008-07-19T11:16:41.746009Z
+305
+joneric.wennerstrom
+
+InstrumentAssignDialog.java
+file
+
+
+
+
+2008-08-24T15:21:10.765625Z
+7e1da4523853a675f98b3262415af180
+2008-08-08T22:09:28.504950Z
+340
+joneric.wennerstrom
+

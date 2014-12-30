@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/340/trunk/src/com/beaglebuddy/tab/gui/mainframe
+END
+MenuItemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/301/trunk/src/com/beaglebuddy/tab/gui/mainframe/MenuItemInfo.java
+END
+MainFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/301/trunk/src/com/beaglebuddy/tab/gui/mainframe/MainFrame.java
+END
+Preferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/303/trunk/src/com/beaglebuddy/tab/gui/mainframe/Preferences.java
+END
+PrintOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/mainframe/PrintOptions.java
+END
+StatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/mainframe/StatusBar.java
+END
+CursorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/340/trunk/src/com/beaglebuddy/tab/gui/mainframe/CursorUtil.java
+END
+CursorMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/340/trunk/src/com/beaglebuddy/tab/gui/mainframe/CursorMap.java
+END
+SerializablePageFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/203/trunk/src/com/beaglebuddy/tab/gui/mainframe/SerializablePageFormat.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/com/beaglebuddy/tab/gui/mainframe/Test.java
+END
+WindowMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/mainframe/WindowMonitor.java
+END
+MainFrameToolbar.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/321/trunk/src/com/beaglebuddy/tab/gui/mainframe/MainFrameToolbar.java
+END
+CursorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/144/trunk/src/com/beaglebuddy/tab/gui/mainframe/CursorListener.java
+END
+MainFrameMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/234/trunk/src/com/beaglebuddy/tab/gui/mainframe/MainFrameMenu.java
+END
+FileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/mainframe/FileFilter.java
+END
+MainFrameSong.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/303/trunk/src/com/beaglebuddy/tab/gui/mainframe/MainFrameSong.java
+END
+MainFrameBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/303/trunk/src/com/beaglebuddy/tab/gui/mainframe/MainFrameBase.java
+END
+ToolbarItemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/301/trunk/src/com/beaglebuddy/tab/gui/mainframe/ToolbarItemInfo.java
+END
+MainFrameCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/340/trunk/src/com/beaglebuddy/tab/gui/mainframe/MainFrameCursor.java
+END

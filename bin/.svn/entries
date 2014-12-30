@@ -1,0 +1,94 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/bin
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2008-08-21T07:28:18.594224Z
+352
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+test
+dir
+
+make.cmd
+file
+
+
+
+
+2008-08-24T16:21:31.937500Z
+0a453d9e432d6aa7c2cecfd696d34fcd
+2008-01-16T22:17:14.626790Z
+146
+joneric.wennerstrom
+
+check_env_vars.cmd
+file
+
+
+
+
+2008-08-24T16:21:31.953125Z
+7dff9497687a4729ed8a963bd253dfc1
+2008-01-16T22:17:14.626790Z
+146
+joneric.wennerstrom
+
+manifest
+dir
+
+tab.cmd
+file
+
+
+
+
+2008-08-24T16:21:31.968750Z
+a345ec32e7ab8de80bee84b7f7abf6c4
+2008-04-14T11:14:45.406479Z
+252
+joneric.wennerstrom
+
+help_viewer.cmd
+file
+
+
+
+
+2008-08-24T16:21:31.968750Z
+86ef9250e7064745b4f0e0859bf5eaad
+2007-09-14T15:20:10.238888Z
+2
+joneric.wennerstrom
+
+build.xml
+file
+
+
+
+
+2008-08-24T16:21:31.984375Z
+17cc5069c2d43047e1c89f04c54ee97c
+2008-08-08T22:09:28.504950Z
+340
+joneric.wennerstrom
+

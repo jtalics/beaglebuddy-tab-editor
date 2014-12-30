@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/347/trunk/src/com/beaglebuddy/tab/gui/font
+END
+FontManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/262/trunk/src/com/beaglebuddy/tab/gui/font/FontManager.java
+END
+FontInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/gui/font/FontInfo.java
+END
+Unicode.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/229/trunk/src/com/beaglebuddy/tab/gui/font/Unicode.java
+END
+MusicNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/347/trunk/src/com/beaglebuddy/tab/gui/font/MusicNotation.java
+END
+BeaglebuddyFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/260/trunk/src/com/beaglebuddy/tab/gui/font/BeaglebuddyFont.java
+END

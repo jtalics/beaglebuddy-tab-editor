@@ -1,0 +1,52 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/src/com/beaglebuddy/tab/gui/action/menu/staff
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2008-07-19T11:16:41.746009Z
+305
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+StaffAction.java
+file
+
+
+
+
+2008-08-24T15:22:46.421875Z
+e65e919f3e3475919b739cd81cd0b5f4
+2008-07-19T11:16:41.746009Z
+305
+joneric.wennerstrom
+
+SectionAction.java
+file
+
+
+
+
+2008-08-24T15:22:46.437500Z
+d4c5b7f0d32f287677db6141f7e81a67
+2008-07-19T11:16:41.746009Z
+305
+joneric.wennerstrom
+

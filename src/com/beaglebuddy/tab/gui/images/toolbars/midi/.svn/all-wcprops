@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/com/beaglebuddy/tab/gui/images/toolbars/midi
+END
+pause.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/com/beaglebuddy/tab/gui/images/toolbars/midi/pause.gif
+END
+stop.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/com/beaglebuddy/tab/gui/images/toolbars/midi/stop.gif
+END
+play.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/com/beaglebuddy/tab/gui/images/toolbars/midi/play.gif
+END
+play_from_beginning.gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/com/beaglebuddy/tab/gui/images/toolbars/midi/play_from_beginning.gif
+END

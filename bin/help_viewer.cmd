@@ -1,0 +1,1 @@
+java -jar d:\dev\java\jh2.0\demos\bin\hsviewer.jar -helpset %tab_home%\lib\beaglebuddy_tab_help.jar

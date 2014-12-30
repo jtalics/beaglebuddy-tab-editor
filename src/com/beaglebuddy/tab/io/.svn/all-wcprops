@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/333/trunk/src/com/beaglebuddy/tab/io
+END
+FileWriteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/144/trunk/src/com/beaglebuddy/tab/io/FileWriteException.java
+END
+FileReadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/144/trunk/src/com/beaglebuddy/tab/io/FileReadException.java
+END
+FileInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/211/trunk/src/com/beaglebuddy/tab/io/FileInputStream.java
+END
+FileOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/333/trunk/src/com/beaglebuddy/tab/io/FileOutputStream.java
+END
+FileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/144/trunk/src/com/beaglebuddy/tab/io/FileException.java
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord
+END
+None.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/None.java
+END
+ChordName.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/ChordName.java
+END
+Staccato.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/Staccato.java
+END
+Acciaccatura.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/Acciaccatura.java
+END
+MultibarRestEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/MultibarRestEnd.java
+END
+LetRing.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/LetRing.java
+END
+AccentMarcato.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/AccentMarcato.java
+END
+Vibrato.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/Vibrato.java
+END
+TremoloBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/TremoloBar.java
+END
+TripletFeel1st.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/TripletFeel1st.java
+END
+FingerPickHand.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/FingerPickHand.java
+END
+PalmMuting.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/PalmMuting.java
+END
+PickStroke.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/PickStroke.java
+END
+VolumeSwell.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/VolumeSwell.java
+END
+Fermata.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/Fermata.java
+END
+MultibarRestBegin.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/MultibarRestBegin.java
+END
+Appoggiatura.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/Appoggiatura.java
+END
+ChordAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/ChordAttribute.java
+END
+AccentSforzando.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/AccentSforzando.java
+END
+TripletFeel2nd.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/TripletFeel2nd.java
+END
+FingerBass.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/FingerBass.java
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/Text.java
+END
+Tap.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/Tap.java
+END
+FingerFretHand.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/FingerFretHand.java
+END
+TremoloPicking.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/TremoloPicking.java
+END
+MultibarRestMiddle.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/MultibarRestMiddle.java
+END
+Arpeggio.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/305/trunk/src/com/beaglebuddy/tab/model/attribute/chord/Arpeggio.java
+END

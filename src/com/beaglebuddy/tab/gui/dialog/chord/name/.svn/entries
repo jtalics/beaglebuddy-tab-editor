@@ -1,0 +1,52 @@
+8
+
+dir
+358
+https://beaglebuddy-tab-editor.googlecode.com/svn/trunk/src/com/beaglebuddy/tab/gui/dialog/chord/name
+https://beaglebuddy-tab-editor.googlecode.com/svn
+
+
+
+2008-08-23T15:48:05.992661Z
+358
+joneric.wennerstrom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a0b6258f-7638-0410-b961-df7d50a85abf
+
+ChordName.java
+file
+
+
+
+
+2008-08-24T15:21:03.328125Z
+a96927f1ab03ba21f241d04bb619d6f8
+2008-08-23T15:48:05.992661Z
+358
+joneric.wennerstrom
+
+ChordNameDialog.java
+file
+
+
+
+
+2008-08-24T15:21:03.343750Z
+3027937315c81026c4fbc2dcfbd03d17
+2008-08-22T21:36:05.875626Z
+357
+joneric.wennerstrom
+
